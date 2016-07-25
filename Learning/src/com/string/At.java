@@ -4,7 +4,7 @@ public class At {
 
 	public static void main(String args[]) {
 		At aa = new At();
-		String func = aa.getUniqueChars("2342314323235155");
+		String func = aa.getUniqueChars("23423143232351155");
 		System.out.println(func);
 
 	}
